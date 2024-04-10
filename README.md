@@ -1,4 +1,4 @@
-## Olá! Sou Gabriel. Estou estudando Back-End e um pouco de Front 😎🤘
+## Estudo Gestão da Informação na Universidade Federal de Uberlândia.
 <div>
 <a href="https://github.com/BielDespair"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=BielDespair&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&disable_animations=false"/>
 
